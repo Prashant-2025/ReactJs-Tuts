@@ -1,0 +1,18 @@
+:root{
+    background: #181717;
+    color: aqua;
+    text-align: center;
+}
+.counter-section{
+    text-align: center;
+    position: relative;
+    top: 250px;
+}
+.btn{
+    padding: 10px;
+    margin: 15px;
+    color: aliceblue;
+    background-color: #4ecff3;
+    border: 0;
+    outline: 0;
+}
